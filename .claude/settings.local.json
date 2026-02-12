@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "WebSearch",
-      "WebFetch(domain:python-markdown.github.io)",
-      "WebFetch(domain:gist.github.com)"
-    ]
-  }
-}
